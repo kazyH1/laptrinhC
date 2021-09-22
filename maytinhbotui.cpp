@@ -48,7 +48,7 @@ int main()
                 {
                     cout << "\n" << "hai số bằng nhau";
                 }
-                cout << "\n" << "bạn có muốn tiếp tục? (1-có; 2-không): ";
+                cout << "\n" << "bạn có muốn tiếp tục? (1-có; 0-không): ";
                 cin >> con;
             }while (con);
 }
